@@ -1,7 +1,57 @@
-.text {
-  position: center;
+.fitted.item {
+  margin: 10px;
+}
+
+.grad-background {
+  background: url('https://www.mcdonalds.com/content/dam/sites/usa/nfl/carousel/Carousel_Desktop_HomePage_Groupshotv3_1168x520.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.ui.borderless.top.menu {
+  margin-top: 10px;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.container {
+  border: none;
+  margin: 10px;
+}
+
+.ui.borderless.middle.menu {
+  font-size: 120%;
+  border: none;
+  box-shadow: none;
 }
 
 .ui.yellow.button {
   color: black;
+}
+
+.ui.trash.menu {
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  box-shadow: none;
+}
+
+.footer {
+  font-size: larger;
+}
+
+.ui.borderless.bottom.menu {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  box-shadow: none;
+}
+
+.ui.borderless.last.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.bottomsection {
+  margin-bottom: 200px;
 }
